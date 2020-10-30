@@ -59,7 +59,7 @@
               </button>
               <div class="dropdown-content">
                 <a href="https://ejudge.it.kmitl.ac.th/" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Click this link : If you want to burn your brain</a>
-                <a href="page2.html" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Jocking</a>
+                <a href="page2.php" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">Jocking</a>
               </div>
             
             </div></center>
